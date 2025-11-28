@@ -1,0 +1,5 @@
+{
+  "name": "C风格字符串可视化",
+  "description": "C风格字符串内存布局及反转算法的交互式可视化。",
+  "requestFramePermissions": []
+}
